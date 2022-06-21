@@ -1,4 +1,4 @@
-Demo [https://react-firebase-album.netlify.app/](https://github.com/facebook/create-react-app](https://react-firebase-album.netlify.app/).
+Demo [https://react-firebase-album.netlify.app/]((https://react-firebase-album.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
